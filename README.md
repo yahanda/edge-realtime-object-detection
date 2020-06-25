@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/wiki/yahanda/edge-realtime-object-detection/images/video-streaming-demo.gif" width="00">
+Azure IoT Edge object detection with Custom Vision on live streaming
+
+<img src="https://raw.githubusercontent.com/wiki/yahanda/edge-realtime-object-detection/images/video-streaming-demo.gif" width="500">
 
 # Installation
 
@@ -48,3 +50,8 @@ git clone git@github.com:yahanda/edge-realtime-object-detection.git
     ```
     http://localhost:5000
     ```
+
+
+# Reference
+- [Video Streaming with Flask](https://blog.miguelgrinberg.com/post/video-streaming-with-flask)
+- [flask-video-streaming](https://github.com/miguelgrinberg/flask-video-streaming)
