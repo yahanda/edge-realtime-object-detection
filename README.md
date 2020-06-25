@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/wiki/yahanda/edge-realtime-object-detection/images/video-streaming-demo.gif" width="00">
+
 # Installation
 
 ### Clone this repository
@@ -46,6 +48,3 @@ git clone git@github.com:yahanda/edge-realtime-object-detection.git
     ```
     http://localhost:5000
     ```
-
-
-<img src="https://raw.githubusercontent.com/wiki/yahanda/edge-realtime-object-detection/images/video-streaming-demo.gif" width="400">
