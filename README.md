@@ -46,3 +46,5 @@ git clone git@github.com:yahanda/edge-realtime-object-detection.git
     ```
     http://localhost:5000
     ```
+
+![demo](https://raw.githubusercontent.com/wiki/yahanda/edge-realtime-object-detection/images/video-streaming-demo.gif)
